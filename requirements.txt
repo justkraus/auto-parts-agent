@@ -1,4 +1,6 @@
 streamlit
 pandas
-rockauto-api
+httpx
+beautifulsoup4
+playwright
 asyncio
